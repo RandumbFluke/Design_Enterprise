@@ -1,0 +1,65 @@
+Innovation Space Group: 4
+The Innovation Spaces Group would like to you produce an interactive map or guide that communicates this information in user-friendly way.  The map/ guide needs to be accessible, engaging and intuitive to use.
+
+- Involves a lot of UX with creating personas, user journey mapping, competitor analysis
+
+Kanpeki Scissors:
+Improve SEO ranking of the two websites and recommend a social media strategy to increase target market engagement and brand awareness across social media platforms
+
+- Interview users to create a user journey, recommend social media platforms and strategies
+- Interlink the SEO strategy with the social media stategy 
+- Summarized in an illustrated report
+
+Coaching Bot:
+Not happening - I don't understand it 
+
+Housing Matters: 1
+After a website rebranding they want to focus on UX and UI for the current clients and prospective clients.
+Primarily focus on UI, user journeys for client audience and delineation of journeys and content for audience types
+
+- SEO optimised
+- Website to be mobile reponsive
+- Visitors to be able to donate and navigate the page easily 
+- UI composition built in figma and to then be carried over to wordpress
+
+Good Things: 2
+As they grow from Internet-only to opening a shop in Bristol, the CEO would like a detailed review of their existing website from a user experience perspective, and improve the efficiency of their social media strategy.
+
+- Research other similar companies and look into the companies own mission, values and target market
+- Create a social media strategy and trial run it before making appropriate changes
+- Analysis of website from a UX perspective
+- Stretch goal = conduct user walk-through of the web site to capture user behaviour and reactions
+
+Tidy Games: 3
+Looking for a web designer to re-design their current website. This includes an update of the content, in particular replacing existing materials with more relevant projects the team has been working on in the recent past. 
+The company pays for GoDaddy’s website builder, so the designer will need to be using that tool for the redesign. 
+
+- Create user personas
+- Competitor analysis 
+- Three drafts of a site
+- A design guide (font, colours, style of language - for web and print)
+- Document for future updates and how to be maintained
+
+Foundry (Social):
+One key goal of this project is to build the UWE Foundry presence on Twitter, as well as by posting on LinkedIn. The project also involves updating the Foundry website with new content as required (e.g. event video, Foundry staff updates, etc). 
+
+Foundry (Timeline):
+You are invited to design a visual guide to the Foundry, its funders, stakeholders, key projects and individuals. The design needs to be brand aware, but can incorporate new visual languages/ styles to communicate the key values of the Foundry in an eye-catching way
+
+- Stretch goal = with your final design create a web-friendly asset
+
+Revolv ltd:
+Revolv is an early-stage start-up helping adventurers embark on their journeys without restraints. We’re developing a wearable energy device that is powered by body movement that will enable hikers, wild campers and backpackers to access perpetual power under all conditions.
+
+- Create a branding pack
+- Stretch goal = design a basic website
+
+UWE Bristol: 5
+Improve and make suggestions to basic web page
+
+Piano Mapping:
+Work with composer/ pianist Max Davies to put together a prototype for use in a live show. This project involves a piano, some development in Max/msp and ideas for creative visuals. 
+A second aspect involves communicating previous/ current stages of this project on social media channels.
+
+- MAX/msp
+- Social Media 
